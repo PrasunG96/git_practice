@@ -1,2 +1,3 @@
 Hello Git and GitHub
 Adding an extra line
+Adding another line - Testing, testing ...
